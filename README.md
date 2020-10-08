@@ -2,4 +2,4 @@
 # [PROJETO PILOTO]
 
 
-Projeto de Sistemas para depósitos
+Projeto de Sistemas para depósitos utilizando Spring Boot
